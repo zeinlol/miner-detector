@@ -4,7 +4,7 @@ This tool help you to check if your Windows machine has hidden miner.
 
 Miners track when you open antivirus software or task manager and stop theirs work, so sometimes it's hard do detect them. 
 
-You can check your cpu load per core or get list of running processes
+You can check your cpu load per core or get list of running processes. If you see strange parameters, or they become lower after you open Task Manager - Most likely you have miner on you machine
 
 ## Usage
 ```
